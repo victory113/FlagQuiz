@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string name="question">What Flag Is This?</string>
+    <string name="flag_description">Flag of a country</string>
+</resources>
